@@ -4,7 +4,7 @@ Kashish Jiandani
 ##Number-Management System
 
 ![Example Image](screenshots/number-management/1.png)
-![Example Image](screenshots/number-management/2.png)
+![Example Image](screenshots/number-management/2.jpeg)
 ![Example Image](screenshots/number-management/3.png)
 
 ##Train-System-Site
